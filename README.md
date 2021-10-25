@@ -13,7 +13,7 @@ git clone https://github.com/BiancaNecula/First-blood-Homework.git
 ```
 See README.check.pdf for informations about checker and testing. \
 See "Programare_2019__Tema_1.pdf" for information about the homework. \
-Simple algorithmic tasks with functions, 2D-arrays and 1D-arrays in C language.
+**Simple algorithmic tasks with functions, 2D-arrays and 1D-arrays in C language.**
 
 # About the code:
 
