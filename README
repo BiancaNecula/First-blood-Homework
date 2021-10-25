@@ -1,0 +1,20 @@
+ TEMA 1
+
+ Tema 1, Programarea Calculatoarelor, Seria CA, 4 noiembrie 2019
+
+ De Necula Bianca
+ 315CA
+
+ Descriere:
+
+Ninel - Primeste ca input numarul de copaci si inaltimea acestora. Returneaza suma inaltimilor copacilor speciali, media aritmetica, copacul cel mai inalt de pe pozitiile impare si cel mai scund de pe cele pare. 
+      - Compara secvente de cate 3 copaci pentru a observa daca cel din mijloc e cel mai inalt. Se iau in considerare exceptiile pentru dimensiuni sau amplasare.
+
+Vectsecv - Primeste ca input un numar. Returneaza dupa cate scaderi succesive, intre numarul cu aceleasi cifre ordonate descrescator si numarul cu aceleasi cifre ordonate crescator, acestea se repeta si secventa de numare care se repeta.
+         -Prin scaderi succesive stocate intr-un vector, se tine un contor pentru numarul de scaderi efectuate si o verificare daca numarul actual calculat in urma scaderii se afla deja in vector.
+
+Codeinvim - Primeste ca input un numar de note si credite (ponderi), notele, creditele si media finala dorita. Returneaza numarul de mariri de care este nevoie ca elevul sa ajunga la media finala dorita.
+          - Se stocheaza intr-un vector toate rezultatele maririlor posibile, acesta se sorteaza, apoi se verifica valorile maxime in media finala. Numarul de mariri este egal cu numarul elementelor din vector care verifica problema.
+
+Nomogram - Primeste ca input numarul de puzzle-uri, dimensiunile acestora, restrictiile pentru fiecare linie si pentru fiecare coloana si nonograma ce trebuie verificata. Returneaza "Eroare" daca este gresita si "Corect" daca a fost rezolvata corect.
+         - Verifica suma pe fiecare linie a matricei de restrictii a liniilor si suma pe fiecare linie a puzzle-ului si daca exista diferente intre ele inseamna ca puzzle-ul este gresit.
